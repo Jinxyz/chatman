@@ -1,0 +1,22 @@
+Vad ska varje del göra?
+
+
+Model
+bra fråga
+
+
+View
+Endast det som visas på skärmen, mindre viktigt och kan göras senare när Model och Controller fungerar.
+
+
+Controller
+bra fråga
+
+
+Server
+Skicka meddelanden till client
+Loopa tills man stänger ned manuellt
+
+Client
+Ta emot meddelanden från server
+Skicka meddelanden till server
