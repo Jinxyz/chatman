@@ -20,3 +20,6 @@ Loopa tills man stänger ned manuellt
 Client
 Ta emot meddelanden från server
 Skicka meddelanden till server
+
+29/03 - 2021
+Delat upp koden i Client.java för att göra det objektorienterat för att förbereda inför MVC. Inte säker på hur jag vill göra det objektorienterat och inte heller säker på hur man gör med MVC.
