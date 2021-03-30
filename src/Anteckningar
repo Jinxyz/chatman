@@ -23,3 +23,7 @@ Skicka meddelanden till server
 
 29/03 - 2021
 Delat upp koden i Client.java för att göra det objektorienterat för att förbereda inför MVC. Inte säker på hur jag vill göra det objektorienterat och inte heller säker på hur man gör med MVC.
+
+
+30/03 - 2021
+Model och Controller för både Server och Client har skapats så att programmet är både objektorienterat samt har ett MVC tänk. Ska arbeta mer med serverdelen av projektet så att den går att köra. 

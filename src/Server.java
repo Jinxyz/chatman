@@ -23,6 +23,7 @@ import java.net.Socket;
             while (true) {
                 System.out.println("Waiting for connections!");
                 socket = serverSocket.accept();
+
                 // Go
                 PrintWriter out = new PrintWriter(socket.getOutputStream(),true);
                 BufferedReader in = new BufferedReader(new InputStreamReader(socket.getInputStream()));
@@ -31,7 +32,7 @@ import java.net.Socket;
                 // läs vad client säger och printa
                 String msg = in.readLine();
                     System.out.println(msg);
-                    // kanske int ebehövs rad
+                    // kanske inte behövs rad
                     System.out.println("hej jag läser");
 
                     // skriv meddelande och skicka
